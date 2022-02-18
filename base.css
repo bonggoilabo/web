@@ -1,0 +1,9 @@
+.grid__row{
+    display: flex;
+    flex-wrap: wrap;
+   ;
+}
+.grid__column-4{
+    
+    width: 25%;
+}
